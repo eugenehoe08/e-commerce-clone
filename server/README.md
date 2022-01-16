@@ -9,7 +9,7 @@
 - [x] Get single user (Only for Admin)
 - [x] Get all users (Only for Admin)
 - [x] Get user stats (Only for Admin)
-- 
+
 ## Product
 - [x] Create a product model
 - [ ] Create Product
